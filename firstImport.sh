@@ -14,4 +14,5 @@ git add Makefile
 git add ui_Additionsprogramm.h
 git commit -m "first commit"
 #git remote add origin git@github.com:KarmaMan1982/Qt5Addition.git
-git push origin master
+#git push origin master
+git push origin HEAD:main
